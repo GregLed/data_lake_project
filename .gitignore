@@ -1,0 +1,10 @@
+# folders
+.vscode
+__pycache__
+
+# python files
+*.pyc
+check_s3.py
+
+# aws config file
+dl.cfg
